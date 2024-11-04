@@ -1,5 +1,4 @@
-# CrossWallet
-Multi-Wallet & Transaction Scanner with Token Creation Module
+Cross-Wallet & Transaction Scanner with Token Creation Module
 This repository contains a Multi-Wallet & Transaction Scanner project for tracking Ethereum (ETH) and Bitcoin (BTC) transactions, with an additional module for token creation on Ethereum. The project automatically scans for transactions every 3 seconds, providing near real-time updates on wallet activity.
 
 Features
