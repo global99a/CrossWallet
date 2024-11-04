@@ -1,0 +1,33 @@
+/* Register.css */
+
+/* Center the form container */
+.container {
+    max-width: 100px;
+    margin: auto;
+    padding: 2rem;
+}
+
+/* Add some padding and shadow to the form */
+form {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+/* Style the heading */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+/* Style the buttons */
+button {
+    margin-top: 15px;
+}
+
+/* Add some spacing between the form groups */
+.mb-3 {
+    margin-bottom: 1rem;
+}
